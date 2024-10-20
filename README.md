@@ -1,3 +1,55 @@
+**Cloning the Repository**
+
+```bash
+https://github.com/nyirurugoomar/Bouletteproof_challenge.git
+cd Bouletteproof_challenge
+```
+
+
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+**API Resource MOCKARRO**
+```bash
+Chart:https://api.mockaroo.com/api/196c81b0?count=4&key=2e3ba090
+```
+```bash
+Table:https://api.mockaroo.com/api/a3508120?count=50&key=2e3ba090
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
